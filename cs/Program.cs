@@ -1,2 +1,2 @@
-﻿var solution = new Day1();
+﻿var solution = new Day2();
 solution.solve();
