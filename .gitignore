@@ -1,2 +1,4 @@
 bin/
+cs/bin/
+cs/obj/
 *.txt
