@@ -1,2 +1,2 @@
-﻿var solution = new Day7();
-solution.solve();
+﻿var solution = new Day8();
+solution.Solve();
